@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Death
+  - Spike
+  - Teleporter
+  - RockHead
+  - SpikeHead
+  - Fruit
+  - KnockbackTrap
+  - Map
+  - Traps
+  - Trap
+  - Weapon
+  - NextLevel
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3551695867
+    locked: 0
+  - name: Map-Floor
+    uniqueID: 575045113
+    locked: 0
+  - name: EmbeddedTrap-Floor
+    uniqueID: 2905957417
+    locked: 0
+  - name: IllusionTile-Floor
+    uniqueID: 1732997601
+    locked: 0
+  - name: Idle Object
+    uniqueID: 571072519
+    locked: 0
+  - name: saw
+    uniqueID: 3940514115
+    locked: 0
+  - name: IllusionTile-Wall
+    uniqueID: 1565880971
+    locked: 0
+  - name: Portal
+    uniqueID: 528026013
+    locked: 0
+  - name: FloorTrap
+    uniqueID: 3932947145
+    locked: 0
+  - name: Player
+    uniqueID: 1396379863
+    locked: 0
+  - name: Chest
+    uniqueID: 2655158123
+    locked: 0
+  - name: Trap
+    uniqueID: 1782417247
+    locked: 0
+  - name: Fruit
+    uniqueID: 3203141353
+    locked: 0
+  - name: Object
+    uniqueID: 3060138619
+    locked: 0
+  - name: EmbeddedTrap-Wall
+    uniqueID: 52895971
+    locked: 0
+  - name: Map-Wall
+    uniqueID: 2774786413
+    locked: 0
+  - name: Weapon
+    uniqueID: 2887368629
+    locked: 0
+  - name: Deco
+    uniqueID: 1140689217
+    locked: 0
